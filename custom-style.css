@@ -1,0 +1,104 @@
+
+.container {max-width: 1448px;}
+
+body {
+    font-size: 14px;
+    
+}
+
+.animate-img>img {
+    transition: transform 0.2s ease-in-out;
+}
+
+.animate-img:hover>img {
+    transform: scale(1.1)
+}
+
+
+p{font-size: 15px;}
+
+.pista {
+    background-color: #6E839C;
+    color:white;
+}
+
+.Wisteria {
+    background-color: #C89ED3;
+    color:#000;
+}
+
+.Poseidon {
+    background-color: #133955;
+    color:#fff;
+}
+
+.DesertSand {
+    background-color: #ECC6AA;
+    color:#000;
+}
+
+.ArkansasRazorbacks {
+    background-color: #9D2235;
+    color:#fff;
+    border-color: #9D2235;
+}
+
+.ParisianViolet  {
+    background-color: #787093;
+    color:#fff;
+}
+
+.ArtNouveauViolet  {
+    background-color: #66585E;
+    color:#fff;
+}
+
+.Jade {
+    background-color: #00A86B;
+    color:#fff;
+}
+
+.ClassicOlive {
+    background-color: #A8A65C;
+    color:#fff;
+}
+
+.aspiredjob {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.form-control {
+    font-size: 14px;
+    border-color: #cdcdcd;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 18px;
+    box-sizing: border-box;
+    min-height: 48px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    transition: transform 85ms ease-out;
+ }
+
+ .choices .choices__inner {
+    font-size: 14px;
+    border-color: #cdcdcd;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 18px;
+    box-sizing: border-box;
+    min-height: 48px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    font-weight: 400;
+    color: black;
+}
+
+.btn {
+    transition: transform 85ms ease-out;
+}
